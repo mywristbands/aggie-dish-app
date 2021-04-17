@@ -6,7 +6,7 @@ This app was created in collaboration with Emily Brickey, Ronald Guerra, and Joa
 
 Unfortunately, I cannot display the code written for this project, as it is private to the client we created it for (Naji Dmeiri). However, I have been given permission to provide links to a video and poster, linked below, that we created at the end of the project to give an overview of the app.
 
-Note that this is just the start of a long-term project. New Senior Design Project teams have already began expanding on our work to add new features to the project.
+Note that this is just the start of a longer-term project. New Senior Design Project teams have already begun expanding on our work and adding new features to the project.
 
 ## Links
 [Video](https://www.youtube.com/watch?v=paa2Acjiuv0)
