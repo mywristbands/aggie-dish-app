@@ -1,5 +1,5 @@
-# aggie-dish-app
-Displays interactive menus for eateries at UC Davis.
+# Aggie Dish App
+An iOS app that displays interactive menus for eateries at UC Davis.
 
 ## Preliminary Notes
 This app was created in collaboration with Emily Brickey, Ronald Guerra, and Joanne Change for our Senior Design Project course at UC Davis. The course lasted for two quarters, or about 6 months.
